@@ -1,4 +1,4 @@
 master-thesis
 =============
 
-Evaluating the Eciency of GUIRipping for Automated Testing ofAndroid Applications
+Evaluating the Efficiency of GUIRipping for Automated Testing ofAndroid Applications
